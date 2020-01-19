@@ -1,6 +1,8 @@
 # Bifilar-Pendulum-Light-Gate-Analysis-Tool
 Python software to analyse light gate data of a bifilar pendulum from two easysense light gates
 
+
+
 ## How to use this software
 
 1) Download `mainfile.py` and all files in the 'data files' folder
@@ -11,7 +13,7 @@ Python software to analyse light gate data of a bifilar pendulum from two easyse
 
 3) Open 'mainfile.py' and run
 
-### How to toggle options
+#### How to toggle options
 
 All options are marked by the preceding comment: `# OPTIONAL`.
 You can find this quickly with Ctrl+F. 
@@ -23,4 +25,6 @@ To prevent this from happening remove some of the .csv files from the folder `ma
 
 If you wish to quit the program while it is running, this can be done with the task manager by selecting 'Python' and then 'End task' or by manually closing all graphs.
 
+## View example graphs without download
 
+Open the 'images' folder to view graphs without downloading them.
